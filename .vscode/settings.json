@@ -1,0 +1,5 @@
+{
+  "python.pythonPath": "/usr/bin/python3",
+  "python.pipenvPath": "~/.local/bin/pipenv",
+  "python.venvPath": "~/.local/share/virtualenvs"
+}
